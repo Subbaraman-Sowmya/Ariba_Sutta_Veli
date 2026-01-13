@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1768282351,,"wq"
+|2,0,1768282701,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,33 @@
 # Registers:
 
 # File marks:
-'0  38  50  ~/ariba_init.sh
-|4,48,38,50,1768282351,"~/ariba_init.sh"
+'0  16  61  ~/sutta_veli.py
+|4,48,16,61,1768282701,"~/sutta_veli.py"
+'1  38  50  ~/ariba_init.sh
+|4,49,38,50,1768282351,"~/ariba_init.sh"
 
 # Jumplist (newest first):
+-'  16  61  ~/sutta_veli.py
+|4,39,16,61,1768282701,"~/sutta_veli.py"
+-'  1  0  ~/sutta_veli.py
+|4,39,1,0,1768282691,"~/sutta_veli.py"
+-'  38  50  ~/ariba_init.sh
+|4,39,38,50,1768282351,"~/ariba_init.sh"
 -'  38  50  ~/ariba_init.sh
 |4,39,38,50,1768282351,"~/ariba_init.sh"
 -'  1  0  ~/ariba_init.sh
 |4,39,1,0,1768282341,"~/ariba_init.sh"
+-'  1  0  ~/ariba_init.sh
+|4,39,1,0,1768282341,"~/ariba_init.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/sutta_veli.py
+	*	1768282700	0
+	"	16	61
+	^	16	62
+	.	16	61
+	+	16	61
 
 > ~/ariba_init.sh
 	*	1768282350	0

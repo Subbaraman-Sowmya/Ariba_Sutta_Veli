@@ -1,3 +1,5 @@
 .ssh/
 id_ariba*
 *.key
+.ssh/
+id_new_pure_key*
